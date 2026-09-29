@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imperio>
+    <nave id="N-001" clase="Caza">
+        <nombre>TIE Fighter</nombre>
+        <piloto>Piloto Imperial 42</piloto>
+    </nave>
+    <nave id="N-002" clase="Estelar">
+        <nombre>Destructor Estelar Clase Imperial</nombre>
+        <piloto>Gobernador Tarkin</piloto>
+    </nave>
+    <nave id="N-003" clase="Caminante">
+        <nombre>Renault Galactico</nombre>
+        <piloto>Paco Pepe </piloto>
+    </nave>
+</imperio>
